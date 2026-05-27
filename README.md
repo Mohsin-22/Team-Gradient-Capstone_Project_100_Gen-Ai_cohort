@@ -28,8 +28,8 @@ Human bias
 Difficulty in policy compliance tracking
 Increased operational overhead
 
-**This project aims to solve these challenges using AI-driven automation while still maintaining human oversight for sensitive cases.
-**
+This project aims to solve these challenges using AI-driven automation while still maintaining human oversight for sensitive cases.
+
 ----
 
 ## 📁 Repository Structure
