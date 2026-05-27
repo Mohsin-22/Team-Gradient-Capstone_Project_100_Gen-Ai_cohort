@@ -7,11 +7,11 @@ The AI Loan Eligibility Assessment Assistant is an enterprise-grade Generative A
 
 The system combines:
 
-Multi-Agent AI Architecture
-Retrieval Augmented Generation (RAG)
-Human-in-the-Loop (HITL) Review
-Policy-Aware Decision Making
-Interactive Web-Based UI
+Multi-Agent AI Architecture,
+Retrieval Augmented Generation (RAG),
+Human-in-the-Loop (HITL) Review,
+Policy-Aware Decision Making,
+Interactive Web-Based UI,
 
 to simulate a real-world banking loan approval workflow.
 
